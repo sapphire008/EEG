@@ -1,0 +1,8 @@
+1. Need to figure out where to visually inspect each of the channels
+2. Need to figure out a good way to integrate GUI for user friendliness,
+especially needed to prompt user for input after visually inspection
+3. Need to figure out how to set up the Create_Behave part of the
+analysis
+4.Consider the case when part of the data has already been processed.
+How to skip the already existed files and continue to the next part of the
+script? Does "switch" in this case works?
